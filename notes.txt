@@ -1,0 +1,2 @@
+Link this environment to your IDE or Jupyter notebook:
+python -m ipykernel install --user --name=venv
