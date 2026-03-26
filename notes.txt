@@ -1,2 +1,6 @@
 Link this environment to your IDE or Jupyter notebook:
 python -m ipykernel install --user --name=venv
+
+
+python -m venv venv
+source venv/bin/activate     # On Windows: venv\Scripts\activate
